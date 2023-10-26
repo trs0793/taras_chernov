@@ -15,5 +15,7 @@
 
 Во время прохождения курса овладел навыками:
 
-![Pyton](logo.png)
+-
+  <img src="![free-icon-python-5968350](https://github.com/trs0793/trs0793/assets/148352377/970089e7-65e2-4189-8c85-5e21dfd451b0)" width="100" height="50"> 
+
 
