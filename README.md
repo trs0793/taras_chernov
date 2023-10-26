@@ -18,5 +18,18 @@
 - 
   <img src="free-icon-python-5968350.png" width="25" height="25"> Python (библиотеки Pandas, Numpy, Seaborn, Matplotlib, Scipy.stats , Pingouin, работа с API Google, Telegram, использование функций, циклов, условных операторов)
   
-- <img src="free-icon-python-5968350.png" width="25" height="25"> 
+- <img src="sql.png" width="27" height="27"> SQL (ClickHouse, Redash, TaBix)
 
+- <img src="github-1051326.png" width="27" height="27"> Git (работа в терминале, создание merge request)
+
+- <img src="Tableau-Emblem.png" width="50" height="27"> Tableau визуализация (создание графиков, дашбордов)
+
+- Теории вероятности и Статистики
+
+- Управления проектами с помощью методологий (Waterfall, философия Agile)
+  
+- Продуктовой аналитики (Экономика, метрики, приоритизация продукта)
+
+Мои контакты: 
+- https://t.me/trs0793
+- trs0793@gmail.com
