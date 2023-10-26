@@ -15,7 +15,8 @@
 
 Во время прохождения курса овладел навыками:
 
+- 
+  <img src="free-icon-python-5968350.png" width="25" height="25"> Python (библиотеки Pandas, Numpy, Seaborn, Matplotlib, Scipy.stats , Pingouin, работа с API Google, Telegram, использование функций, циклов, условных операторов)
 -
-  <img src="![free-icon-python-5968350](https://github.com/trs0793/trs0793/assets/148352377/970089e7-65e2-4189-8c85-5e21dfd451b0)" width="100" height="50"> 
-
+ <img src="free-icon-python-5968350.png" width="25" height="25"> 
 
