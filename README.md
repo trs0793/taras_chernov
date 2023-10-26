@@ -17,6 +17,6 @@
 
 - 
   <img src="free-icon-python-5968350.png" width="25" height="25"> Python (библиотеки Pandas, Numpy, Seaborn, Matplotlib, Scipy.stats , Pingouin, работа с API Google, Telegram, использование функций, циклов, условных операторов)
--
- <img src="free-icon-python-5968350.png" width="25" height="25"> 
+  
+- <img src="free-icon-python-5968350.png" width="25" height="25"> 
 
