@@ -26,7 +26,7 @@
 
 - <img src="probabiliti.png" width="27" height="27"> Теории вероятности и Статистики
 
-- <img src="Agile.jpg" width="40" height="40"> Управления проектами с помощью методологий (Waterfall, философия Agile)
+- <img src="free-icon-scrum-4727486.png" width="27" height="27"> Управления проектами с помощью методологий (Waterfall, философия Agile)
   
 - <img src="free-icon-metric-8028212.png" width="27" height="27"> Продуктовой аналитики (Экономика, метрики, приоритизация продукта)
 
